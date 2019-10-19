@@ -1,0 +1,9 @@
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\bin\Mail_Gonder.dll
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\bin\Mail_Gonder.pdb
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\bin\Mail_Gonder.xml
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.Resources.resources
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.vbproj.GenerateResource.Cache
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.dll
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.xml
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.pdb
+C:\Users\MUSTAFA\Desktop\Mail_Gonder\Mail_Gonder\obj\Debug\Mail_Gonder.vbprojResolveAssemblyReference.cache
